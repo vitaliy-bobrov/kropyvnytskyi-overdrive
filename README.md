@@ -6,11 +6,11 @@ The repository contains KiCad source files: schematic, PCB, BOM.
 
 ## Schematic
 
-![Schematic PDF](https://github.com/vitaliy-bobrov/bat/blob/main/assets/schematic.pdf)
+![Schematic PDF](https://github.com/vitaliy-bobrov/kropyvnytskyi-overdrive/blob/main/assets/schematic.pdf)
 
 ## PCB (3D preview)
 
-![](https://github.com/vitaliy-bobrov/bat/blob/main/assets/pcb.png)
+![](https://github.com/vitaliy-bobrov/kropyvnytskyi-overdrive/blob/main/assets/pcb.png)
 
 ## Interactive BOM
 
